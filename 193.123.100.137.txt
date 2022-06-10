@@ -1,0 +1,4 @@
+MYSQL PHPMYADMIN
+DataBaseLink: http://193.123.100.137/database/
+Usuário: serratec
+Senha: trabalhopoo
